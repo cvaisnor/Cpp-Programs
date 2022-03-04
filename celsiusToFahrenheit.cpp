@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Programmer: Chris Vaisnor" << endl;
     cout << "Description: Converter from Celsius to Fahrenheit w/ user inputs." << endl;
     cout << endl;
 
